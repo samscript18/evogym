@@ -1,4 +1,4 @@
-import { useEffect, useRef, RefObject, useState, EventHandler } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Logo } from "../assets/export";
 import Button from "./Button";
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri";

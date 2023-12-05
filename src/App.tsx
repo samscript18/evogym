@@ -1,9 +1,7 @@
-import React, { useEffect } from "react";
+import React from "react";
 import "./App.css";
 import { Navbar, Sponsor } from "./components";
-import { Header, Benefits, Classes, Contact } from "./container";
-import Footer from "./container/Footer";
-import { log } from "console";
+import { Header, Benefits, Classes, Contact, Footer } from "./container";
 
 function App() {
   return (

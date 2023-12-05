@@ -1,4 +1,4 @@
-import { ContactImg, EvolveText } from "../assets/export";
+import { ContactImg } from "../assets/export";
 import { Button, Title } from "../components";
 import { motion } from "framer-motion";
 
@@ -91,13 +91,6 @@ const Contact = () => {
                 />
               </div>
             </motion.div>
-            {/* <div className="absolute bottom-[12%] lg:right-[9%] md:right-[23%]">
-              <img
-                src={EvolveText}
-                className="w-[500px] h-[90px]"
-                alt="evolve-text"
-              />
-            </div> */}
           </div>
         </div>
       </div>
